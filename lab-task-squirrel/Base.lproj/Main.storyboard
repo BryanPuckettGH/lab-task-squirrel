@@ -172,7 +172,6 @@
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="View Photo"/>
                                 <connections>
-                                    <action selector="didTapAttachPhotoButton:" destination="iXV-Xg-iXn" eventType="touchUpInside" id="Zb0-r9-bGu"/>
                                     <segue destination="ywU-ld-ths" kind="show" identifier="PhotoSegue" id="16q-Jx-960"/>
                                 </connections>
                             </button>

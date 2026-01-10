@@ -18,36 +18,6 @@
             endingLineNumber = "168"
             landmarkName = "presentGoToSettingsAlert()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "906C0D66-E4EE-46A8-B321-C2BE39084681 - 96a38bd09ebe6e35"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lab_task_squirrel.TaskDetailViewController.showAlert(for: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
-                  moduleName = "lab-task-squirrel.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/bryanpuckett/Library/Mobile%20Documents/com~apple~CloudDocs/Education/Bryan/FIU/Spring%202026/COP4655%20-%20Mobile%20Application%20Development/lab-task-squirrel/lab-task-squirrel/Task%20Detail/TaskDetailViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "170"
-                  endingLineNumber = "170">
-               </Location>
-               <Location
-                  uuid = "906C0D66-E4EE-46A8-B321-C2BE39084681 - 50be943bc0789dd3"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "lab_task_squirrel.TaskDetailViewController.presentGoToSettingsAlert() -&gt; ()"
-                  moduleName = "lab-task-squirrel.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/bryanpuckett/Library/Mobile%20Documents/com~apple~CloudDocs/Education/Bryan/FIU/Spring%202026/COP4655%20-%20Mobile%20Application%20Development/lab-task-squirrel/lab-task-squirrel/Task%20Detail/TaskDetailViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "168"
-                  endingLineNumber = "168">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
