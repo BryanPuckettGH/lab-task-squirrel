@@ -5,7 +5,7 @@ Submitted by: Bryan Puckett
 **Name of your app** is an app that ... [TODO] 
 
 Time spent: 5hours spent in total
-<img width="1172" height="966" alt="2026-01-10 at 18 39 37" src="https://github.com/user-attachments/assets/6241c960-f355-4ea4-9613-c6f4e382ce6a" />
+
 
 ## Required Features
 
