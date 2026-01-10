@@ -5,7 +5,7 @@ Submitted by: Bryan Puckett
 **Name of your app** is an app that ... [TODO] 
 
 Time spent: 5hours spent in total
-
+![2026-01-10 at 17 36 57](https://github.com/user-attachments/assets/31543a29-80b7-4e48-8411-0316927b07f0)
 ## Required Features
 
 The following **required** functionality is completed:
