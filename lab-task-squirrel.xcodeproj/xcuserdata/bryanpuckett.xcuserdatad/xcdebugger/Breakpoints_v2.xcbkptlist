@@ -14,8 +14,8 @@
             filePath = "lab-task-squirrel/Task Detail/TaskDetailViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "168"
-            endingLineNumber = "168"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
             landmarkName = "presentGoToSettingsAlert()"
             landmarkType = "7">
          </BreakpointContent>
