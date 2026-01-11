@@ -6,7 +6,7 @@ Submitted by: Bryan Puckett
 
 Time spent: 5hours spent in total
 
-![2026-01-10 at 19 32 33](https://github.com/user-attachments/assets/3bf3fd13-f49d-428d-8ba6-17b4f7d8ec8a)
+![2026-01-10 at 19 40 33](https://github.com/user-attachments/assets/a7419b72-a04d-4fd4-aedf-9407766acd9d)
 
 
 ## Required Features
