@@ -25,9 +25,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-The option to open camera is nice
-The option to click and it will automatically add GPS navigation to that location
-The option to share it
+
+- The option to click and it will automatically add GPS navigation to that location
+- The option to share it as a social media post
+- The option to change the layout in the end user level
 
 
 
