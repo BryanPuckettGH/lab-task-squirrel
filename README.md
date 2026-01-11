@@ -1,8 +1,7 @@
 # Project 1 - lab-task-squirrel
 
 Submitted by: Bryan Puckett
-
-**Name of your app** is an app that ... [TODO] 
+PID: 5506132
 
 Time spent: 5hours spent in total
 
