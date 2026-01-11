@@ -5,8 +5,7 @@ PID: 5506132
 
 Time spent: 5hours spent in total
 
-![2026-01-10 at 19 59 43](https://github.com/user-attachments/assets/c72c5767-9750-4cc4-a024-f062116f6d5a)
-
+![2026-01-11 at 11 05 35](https://github.com/user-attachments/assets/da3f28c7-1390-486a-bd22-2106a9605a14)
 
 
 ## Required Features
