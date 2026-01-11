@@ -6,8 +6,6 @@ Submitted by: Bryan Puckett
 
 Time spent: 5hours spent in total
 
-[
-https://share.cleanshot.com/lqgN7SHN](https://share.cleanshot.com/CRb2JwDm)]
 
 ## Required Features
 
